@@ -2,6 +2,8 @@
 
 # VSCodeを使用してコーディングを行うための各種設定
 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=plastic"> <img src="https://img.shields.io/badge/-HTML5-000000.svg?logo=html5&style=plastic"> <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=plastic">
+
 エディタとしてVSCodeを使用します。
 
 以下からダウンロードしてインストールしてください。
