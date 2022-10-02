@@ -46,7 +46,7 @@ Emmetを使えば、簡単にHTMLやCSSのコードを書くことができま�
 
 を入力してTABキーを押すだけで
 
-```
+```html:index.html
 <!DOCTYPE html>
 <html lang="ja">
 <head>
