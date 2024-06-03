@@ -68,7 +68,5 @@ Emmetは入力補完を行ってくれたり省略してコード書くことが
 
 ## 拡張等参考リンク
 
-- [【分野別】VSCodeのおすすめ拡張機能まとめ - Qiita](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
-- [【2022年】Web制作で使えるVSCodeオススメ拡張機能17選！ - PENGIN BLOG](https://pengi-n.co.jp/blog/vscode-extensions/)
-- [Visual Studio Codeで見やすいテーマファイルのまとめ _ コリス](https://coliss.com/articles/build-websites/operation/work/best-of-visual-studio-code-themes.html)
+- [【2024年】Web制作に役立つVSCodeのおすすめ拡張機能23選！](https://musclecoding.com/vscode-extension-web-design/)
 - [【Visual Studio Code】可愛いテーマ集 – 8選 _ Pixel Note](https://neko11.com/vscode-cute-themes/)
