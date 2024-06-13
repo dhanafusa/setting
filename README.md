@@ -69,4 +69,4 @@ Emmetは入力補完を行ってくれたり省略してコード書くことが
 ## 拡張等参考リンク
 
 - [【2024年】Web制作に役立つVSCodeのおすすめ拡張機能23選！](https://musclecoding.com/vscode-extension-web-design/)
-- [【Visual Studio Code】可愛いテーマ集 – 8選 _ Pixel Note](https://neko11.com/vscode-cute-themes/)
+- [2024 VSCodeのおすすめテーマはこれだ！](https://designup.jp/vscode-best-themes.html)
